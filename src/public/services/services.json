@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Fire Safety Inspection",
+    "category": "Inspection",
+    "price": 75,
+    "duration": "2 hours",
+    "description": "Inspection of buildings and fire safety equipment to identify potential fire hazards.",
+    "image": "https://image.hkhl.hk/f/1024p0/0x0/100/none/2cc534326f1a303a8db3538ef107bd70/2024-09/FIRE2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fire Extinguisher Refilling",
+    "category": "Maintenance",
+    "price": 35,
+    "duration": "1 hour",
+    "description": "Refilling and servicing of fire extinguishers after use or when maintenance is required.",
+    "image": "https://vdpo64.ru/uploadedFiles/catalogimages/big/nikitin.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "Fire Alarm Inspection",
+    "category": "Inspection",
+    "price": 60,
+    "duration": "2 hours",
+    "description": "Testing and inspection of fire alarm systems to ensure connected devices are functioning correctly.",
+    "image": "https://www.firetradesupplies.com/cdn/shop/files/testifire-xtr2-smokeheat-test-removal-kit-9m-408066_1024x.jpg?v=1715197666"
+  },
+  {
+    "id": 6,
+    "name": "Fire Safety Training",
+    "category": "Training",
+    "price": 100,
+    "duration": "3 hours",
+    "description": "Training on fire prevention, emergency response, evacuation procedures, and proper extinguisher use.",
+    "image": "https://extincteur-toulouse.fr/images/2026/06/01/formation-manipulation-extincteur.png"
+  },
+  {
+    "id": 7,
+    "name": "Fire Risk Assessment",
+    "category": "Assessment",
+    "price": 120,
+    "duration": "3 hours",
+    "description": "Assessment of a property to identify fire hazards and recommend appropriate safety measures.",
+    "image": "https://findfiredoorinspector.co.uk/_next/image?q=75&url=%2Fimages%2Fservices%2Ffire-risk-assessment.webp&w=3840"
+  },
+  {
+    "id": 8,
+    "name": "Emergency Evacuation Planning",
+    "category": "Planning",
+    "price": 150,
+    "duration": "4 hours",
+    "description": "Development of an emergency evacuation plan including exit routes, assembly areas, and emergency procedures.",
+    "image": "https://images.unsplash.com/photo-1771856189835-16e2d74dfb53?auto=format&fit=crop&w=1000&q=80"
+  }
+]
