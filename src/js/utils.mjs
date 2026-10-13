@@ -3,7 +3,7 @@ const  baseURL = import.meta.env.BASE_URL;
 export async function loadData(name)
 {
     try {
-        const res = await fetch(`${baseURL}/services/${name}.json`);
+        const res = await fetch(`${baseURL}services/${name}.json`);
         if(!res.ok)
         {
             throw new Error(res)
