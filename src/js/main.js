@@ -1,5 +1,4 @@
 import "../css/global.css";
-import "../css/style.css";
 
 import { headerFooter } from "./utils.mjs";
 

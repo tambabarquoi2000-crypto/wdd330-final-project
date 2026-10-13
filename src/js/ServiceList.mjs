@@ -28,9 +28,9 @@ export default class ServiceList
 function serviceCardTemplate(service){
     return(
     `
-        <li>
+        <li class="service">
             <a class="card" href="#">
-                <img src="${service.image}" alt="${service.name}" width=400 height=400>
+                <div class="img-cont"><img src="${service.image}" alt="${service.name}" width=400 height=400></div>
                 <div>
                     <div>
                         <h2>${service.name}</h2>

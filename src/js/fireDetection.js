@@ -1,7 +1,6 @@
 import { headerFooter } from "./utils.mjs";
 import { getData } from "./ExternalServices.mjs";
 import "../css/global.css";
-import "../css/recent.css";
 headerFooter()
 
 const fireDetections = "https://kanari.io/api/events?hours=24";
