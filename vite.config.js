@@ -11,7 +11,7 @@ import { defineConfig } from "vite";
 
 
 export default defineConfig({
-root: "src/",
+root: "/",
 
 base: "/wdd330-final-project/",
 
