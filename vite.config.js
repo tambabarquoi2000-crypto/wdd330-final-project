@@ -24,12 +24,8 @@ outDir: "../dist",
 rollupOptions: {
 input: {
 main: resolve(__dirname, "src/index.html"),
-request: resolve(__dirname, "src/repair/request.html"),
-request: resolve(__dirname, "src/repair/schedule.html"),
-request: resolve(__dirname, "src/repair/fire_detection.html"),
-request: resolve(__dirname, "src/partials/header.html"),
-request: resolve(__dirname, "src/partials/footer.html"),
-request: resolve(__dirname, "src/services/index.html")
+fireDetection: resolve(__dirname, "src/repair/fire_detection.html"),
+services: resolve(__dirname, "src/services/index.html")
 },
 },
 },
